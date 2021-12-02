@@ -21,6 +21,7 @@
 - Christina Kahn
 - Yuko Matsumoto
 - Tianlan Yang
+- Antony Chen
 - [Alexander Snure](https://github.com/asnure15)
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
